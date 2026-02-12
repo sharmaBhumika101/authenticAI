@@ -1,0 +1,30 @@
+# --- Python / Environments ---
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+.env
+
+# --- Streamlit ---
+.streamlit/config.toml
+.streamlit/secrets.toml
+
+# --- LangChain / LangGraph ---
+.langchain_cache/
+.langgraph/
+trace.log
+
+# --- Cryptography / ECDSA ---
+# Never push private keys or sensitive identity files
+*.pem
+*.key
+*.priv
+secrets.json
+
+# --- OS / Misc ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
