@@ -1,0 +1,16 @@
+[
+    {
+        "timestamp": 1771226162,
+        "content": "You know those *secret* passages in old mansions? A #ZeroDayVulnerability is like that, but for your tech, and instead of dusty treasures, it's hackers slipping in. Developers get ZERO days to patch it before the bad guys find the \"trapdoor.\" \ud83d\udeaa\ud83d\udc80 #CyberSecurity",
+        "signature": "650bd18a60b6ab068af0f848ae25f67fb248c09edabbc2b366b93a0e2110fa271f60ff57b5b28de2b762446a84fe1d609f1d058a2af23d082d8203eca3d53827",
+        "tweet_id": "DEMO_1771226162",
+        "public_key": "fd8dedb83feb019c115b06bc3b24d98605644a4f8654401243b9aa19186cb57915a7d29bc8f4f660e6cac655af64329bd1b002c942029c3dfa3b1c48d5159565"
+    },
+    {
+        "timestamp": 1771226464,
+        "content": "AI don't care about your fancy MFA. \ud83d\ude44 Attackers are just setting up a little reverse proxy, posing as your boss, and snatching your authentication cookies. It's like leaving your house keys under the mat, but for your digital life. Time to level up, folks! #Cybersecurity #MFA #Phishing",
+        "signature": "8158f0a9debc62c36a71349ce174eda77fe1c4ac368fcc097bada56e9432e8d945f1a3f26cdde4625fede182ffad3a8bf4ec886d77a27033680c8895b4644aca",
+        "tweet_id": "DEMO_1771226464",
+        "public_key": "ee93c04a9ec38e11d011a466903d73ad731c7e702ab245fd7672ae15766e4159c71a5c135ab24082cab421aebeada90b01ecb3218d16f377e7b6dbdcdc12c14b"
+    }
+]
