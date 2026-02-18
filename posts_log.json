@@ -12,5 +12,68 @@
         "signature": "8158f0a9debc62c36a71349ce174eda77fe1c4ac368fcc097bada56e9432e8d945f1a3f26cdde4625fede182ffad3a8bf4ec886d77a27033680c8895b4644aca",
         "tweet_id": "DEMO_1771226464",
         "public_key": "ee93c04a9ec38e11d011a466903d73ad731c7e702ab245fd7672ae15766e4159c71a5c135ab24082cab421aebeada90b01ecb3218d16f377e7b6dbdcdc12c14b"
+    },
+    {
+        "timestamp": 1771228342,
+        "content": "Here are 3 X posts, from the perspective of a witty cybersecurity researcher, on the topic of vishing and AI:\n\nForget your polite \"knock-knock\" jokes, folks. Threat actors are going full James Bond on us with AI-powered vishing! They're cloning voices, deepfaking faces, and impersonating your boss to get your login. It's less \"phishing\" and more \"phon-e-tically sinister.\" Stay sharp, don't answer the call unless you're absolutely sure it's not your CEO asking for gift cards. #Vishing #AISecurity #SocialEngineering",
+        "signature": "200607137a478a59585e3172acaac5370be5c6576206b67133d76d6638b008c9300bc1e5db9e909b55a6a6c2c510aa658d5f92d646e8772ab0bd323e884d6d7b",
+        "tweet_id": "DEMO_1771228342",
+        "public_key": "3e0f6a023db494518887154f31a346e529f34e9594e9a898ebb87ef0594d25c671625ea5f11611cb36e2023377899cac3122750dcf8f6675b350940b761737c8"
+    },
+    {
+        "timestamp": 1771229658,
+        "content": "My inbox is getting spicy! \ud83d\udd25 Apparently, attackers are using AI to impersonate trusted individuals with uncanny accuracy. My top tip? If a deal sounds too good to be true, or if your Aunt Mildred suddenly starts speaking fluent Klingon in a video call... it's probably not Aunt Mildred. Stay sharp! \u2694\ufe0f #CybersecurityTips  #Impersonation",
+        "signature": "ccde9847a7c36de17d41185b1a03639d5e38e60207f205e201d9b3ed1bf31ebd3a18f40a180d976ca64ca041c7745c600e88b9698d6f6ab1946c12ed9d992506",
+        "tweet_id": "DEMO_1771229658",
+        "public_key": "6d9be4db3adc2c74f4c7ca31d15e206368ea347c37ac8496cdc519aae6aa849501645ef8328a3063625b9b9c1cd7321b1f5c37f9598f6d3067aa2bb840f3e2e2"
+    },
+    {
+        "timestamp": 1771229661,
+        "content": "My inbox is getting spicy! \ud83d\udd25 Apparently, attackers are using AI to impersonate trusted individuals with uncanny accuracy. My top tip? If a deal sounds too good to be true, or if your Aunt Mildred suddenly starts speaking fluent Klingon in a video call... it's probably not Aunt Mildred. Stay sharp! \u2694\ufe0f #CybersecurityTips  #Impersonation",
+        "signature": "ccde9847a7c36de17d41185b1a03639d5e38e60207f205e201d9b3ed1bf31ebd3a18f40a180d976ca64ca041c7745c600e88b9698d6f6ab1946c12ed9d992506",
+        "tweet_id": "DEMO_1771229661",
+        "public_key": "6d9be4db3adc2c74f4c7ca31d15e206368ea347c37ac8496cdc519aae6aa849501645ef8328a3063625b9b9c1cd7321b1f5c37f9598f6d3067aa2bb840f3e2e2"
+    },
+    {
+        "timestamp": 1771229664,
+        "content": "My inbox is getting spicy! \ud83d\udd25 Apparently, attackers are using AI to impersonate trusted individuals with uncanny accuracy. My top tip? If a deal sounds too good to be true, or if your Aunt Mildred suddenly starts speaking fluent Klingon in a video call... it's probably not Aunt Mildred. Stay sharp! \u2694\ufe0f #CybersecurityTips  #Impersonation",
+        "signature": "97f69fdd0091efb12a98b77d738b86f9c328c449582041d21da035e7828f28c7b6405072fa3292e27958bae24217e34f1c24d5ea6c560423ccef5186dfb56f04",
+        "tweet_id": "DEMO_1771229664",
+        "public_key": "6d9be4db3adc2c74f4c7ca31d15e206368ea347c37ac8496cdc519aae6aa849501645ef8328a3063625b9b9c1cd7321b1f5c37f9598f6d3067aa2bb840f3e2e2"
+    },
+    {
+        "timestamp": 1771229668,
+        "content": "Heads up, digital denizens! AI is powering a new wave of social engineering. We're talking chatbots that can mimic your grandma and voice clones that'll make you swear it's your best mate. My advice: trust your gut, double-check those IDs (even the digital ones!), and maybe start a secret handshake with your colleagues. Just for funsies, of course. \ud83d\ude09 #AIthreats #CyberAwareness #TechHumor",
+        "signature": "00a37ee2759d95fa604c89e4e6a59965fd7195368c1eb796f4c81992acbab2865e05de5d543d86aa95ddc71197e971385aa8d67d651bdaa8d4cc1921b3bfa410",
+        "tweet_id": "DEMO_1771229668",
+        "public_key": "6d9be4db3adc2c74f4c7ca31d15e206368ea347c37ac8496cdc519aae6aa849501645ef8328a3063625b9b9c1cd7321b1f5c37f9598f6d3067aa2bb840f3e2e2"
+    },
+    {
+        "timestamp": 1771314195,
+        "content": "Deepfakes are so 2024! Criminals are now using AI to rob us blind, impersonating execs with uncanny voice and face swaps. It\u2019s like \"Mission Impossible\" but with less Tom Cruise and more\u2026 *your* boss\u2019s face on a scammer. #DeepfakeScam #Cybersecurity #AI",
+        "signature": "90bc9b3352375d4ae4c739c02b599efd9ab2f6e66feb494f3ef9bf931b4cd342dfc059e0f9e93e89699a721548cbe7d64cf5d9f93bc933ee03e2221f2894d8c0",
+        "tweet_id": "DEMO_1771314195",
+        "public_key": "71b24d80cbd199932587c549957358ffad371a361fb1727731c1655fe4e1ecf34a423bef25937da8c72f0ccaec87917a7b6e7b0ce4fb18ebe656f2dbe70d8ea4"
+    },
+    {
+        "timestamp": 1771314685,
+        "content": "Is it the Nigerian prince\u2026 or an AI-powered chatbot *pretending* to be your estranged relative with a sudden windfall? The lines are blurring, and fear is the weapon of choice. AI is elevating social engineering from a nuisance to a genuinely sophisticated threat. Stay vigilant, my friends! #TechScams #AIInCybersecurity #BeAware",
+        "signature": "b6c043c2a8618c710a73142ada353ffaa255e722d9a08a981b3cc8f9860410880e27c794e0384b92c095fd8049ef2ae6eee0c688c2c5c79cec5ebffac865a5af",
+        "tweet_id": "DEMO_1771314685",
+        "public_key": "1e3347e369fe7e7dda74df506c5e7aeb58a3237004e9b0a5d9c9a653bd4529a7289881ac81af5a3da0e585c7e98f77188231bfaf63271ccb88f1d8d310dbe2b4"
+    },
+    {
+        "timestamp": 1771421366,
+        "content": "The latest stats are IN! \ud83e\udd2f Voice phishing + social engineering up a WHOPPING 442% from 1H to 2H 2024. Apparently, the bad guys have really upped their phone game, and it's not for a job interview! \u260e\ufe0f Stay sharp, folks \u2013 they're getting bolder AND smarter. #VoicePhishing #SocialEngineering #Cybersecurity",
+        "signature": "f71aaec1d32b56860c8b120fca39196a0f183f2a04c39c10ae25664cb00b470fd01107c1323d0d8930ec06d701137156ce8fc4ff46b83f15280571091f84dddb",
+        "tweet_id": "DEMO_1771421366",
+        "public_key": "17388d237c25a186268dda2bc3b4d1352141dc50cb159c88086c1be5ce03b7551d83ece5bb9c8981dae9c6afc7af3551fb7abb4a4476e0720c8ebb8575c55902"
+    },
+    {
+        "timestamp": 1771421371,
+        "content": "The latest stats are IN! \ud83e\udd2f Voice phishing + social engineering up a WHOPPING 442% from 1H to 2H 2024. Apparently, the bad guys have really upped their phone game, and it's not for a job interview! \u260e\ufe0f Stay sharp, folks \u2013 they're getting bolder AND smarter. #VoicePhishing #SocialEngineering #Cybersecurity",
+        "signature": "f71aaec1d32b56860c8b120fca39196a0f183f2a04c39c10ae25664cb00b470fd01107c1323d0d8930ec06d701137156ce8fc4ff46b83f15280571091f84dddb",
+        "tweet_id": "DEMO_1771421371",
+        "public_key": "17388d237c25a186268dda2bc3b4d1352141dc50cb159c88086c1be5ce03b7551d83ece5bb9c8981dae9c6afc7af3551fb7abb4a4476e0720c8ebb8575c55902"
     }
 ]

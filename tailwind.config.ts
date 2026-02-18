@@ -1,0 +1,101 @@
+ ring: "hsl(var(--sidebar-ring))",
+        },
+        cyber: {
+          cyan: "hsl(var(--cyber-cyan))",
+          green: "hsl(var(--cyber-green))",
+          amber: "hsl(var(--cyber-amber))",
+          red: "hsl(var(--cyber-red))",
+          blue: "hsl(var(--cyber-blue))",
+          violet: "hsl(var(--cyber-violet))",
+        },
+      },
+      fontFamily: {
+        sans: ["Space Grotesk", "system-ui", "sans-serif"],
+        display: ["Syne", "system-ui", "sans-serif"],
+        mono: ["JetBrains Mono", "Courier New", "monospace"],
+      },
+      borderRadius: {
+        sm: "calc(var(--radius) - 4px)",
+      },
+      boxShadow: {
+        "glow-cyan": "0 0 20px hsl(186 100% 50% / 0.6), 0 0 60px hsl(186 100% 50% / 0.2)",
+        "glow-green": "0 0 20px hsl(145 100% 50% / 0.6), 0 0 60px hsl(145 100% 50% / 0.2)",
+        "glow-amber": "0 0 20px hsl(45 100% 55% / 0.6), 0 0 60px hsl(45 100% 55% / 0.2)",
+        "glow-red": "0 0 20px hsl(355 100% 55% / 0.6), 0 0 60px hsl(355 100% 55% / 0.2)",
+        "panel": "0 8px 32px hsl(220 40% 0% / 0.6), 0 0 0 1px hsl(186 100% 50% / 0.08)",
+        "panel-hover": "0 16px 48px hsl(220 40% 0% / 0.8), 0 0 0 1px hsl(186 100% 50% / 0.2)",
+      },
+      backgroundImage: {
+        "gradient-cyber": "linear-gradient(135deg, hsl(186 100% 50%) 0%, hsl(210 100% 60%) 100%)",
+        "gradient-verify": "linear-gradient(135deg, hsl(145 100% 50%) 0%, hsl(186 100% 55%) 100%)",
+        "gradient-danger": "linear-gradient(135deg, hsl(355 100% 55%) 0%, hsl(340 100% 50%) 100%)",
+        "gradient-dark": "linear-gradient(180deg, hsl(220 40% 3%) 0%, hsl(220 40% 5%) 100%)",
+        "mesh": "radial-gradient(at 40% 20%, hsl(186 100% 50% / 0.06) 0px, transparent 50%), radial-gradient(at 80% 0%, hsl(210 100% 60% / 0.04) 0px, transparent 50%), radial-gradient(at 0% 50%, hsl(145 100% 50% / 0.03) 0px, transparent 50%)",
+      },
+      keyframes: {
+        "accordion-down": {
+          from: {
+            height: "0",
+          },
+          to: {
+            height: "var(--radix-accordion-content-height)",
+          },
+          from: { height: "0" },
+          to: { height: "var(--radix-accordion-content-height)" },
+        },
+        "accordion-up": {
+          from: {
+            height: "var(--radix-accordion-content-height)",
+          },
+          to: {
+            height: "0",
+          },
+          from: { height: "var(--radix-accordion-content-height)" },
+          to: { height: "0" },
+        },
+        "scan-spin": {
+          from: { transform: "rotate(0deg)" },
+          to: { transform: "rotate(360deg)" },
+        },
+        "scan-pulse-ring": {
+          "0%, 100%": { opacity: "0.2", transform: "scale(0.98)" },
+          "50%": { opacity: "0.7", transform: "scale(1)" },
+        },
+        "flicker": {
+          "0%, 100%": { opacity: "1" },
+          "92%": { opacity: "1" },
+          "93%": { opacity: "0.4" },
+          "94%": { opacity: "1" },
+          "96%": { opacity: "0.3" },
+          "97%": { opacity: "1" },
+        },
+        "type-cursor": {
+          "0%, 100%": { opacity: "1" },
+          "50%": { opacity: "0" },
+        },
+        "slide-up-fade": {
+          "0%": { opacity: "0", transform: "translateY(16px)" },
+          "100%": { opacity: "1", transform: "translateY(0)" },
+        },
+        "expand-width": {
+          "0%": { width: "0%" },
+          "100%": { width: "var(--target-width, 100%)" },
+        },
+        "counter-up": {
+          "0%": { transform: "translateY(20px)", opacity: "0" },
+          "100%": { transform: "translateY(0)", opacity: "1" },
+        },
+      },
+        "accordion-down": "accordion-down 0.2s ease-out",
+        "accordion-up": "accordion-up 0.2s ease-out",
+        "scan-spin": "scan-spin 8s linear infinite",
+        "scan-spin-slow": "scan-spin 16s linear infinite",
+        "scan-spin-reverse": "scan-spin 12s linear infinite reverse",
+        "scan-pulse-ring": "scan-pulse-ring 2.5s ease-in-out infinite",
+        "flicker": "flicker 8s ease-in-out infinite",
+        "type-cursor": "type-cursor 1s step-end infinite",
+        "slide-up-fade": "slide-up-fade 0.4s ease-out",
+        "expand-width": "expand-width 1.2s ease-out forwards",
+        "counter-up": "counter-up 0.5s ease-out",
+      },
+    },
